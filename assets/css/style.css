@@ -642,13 +642,13 @@ ol[type="1"]>li:not(:last-child) {
 .meta_info_list.unordered_list_block>li:not(:last-child) {
     margin-bottom: 8px
 }
-
 .section_heading {
     margin-bottom: 40px
 }
 
 .section_heading .heading_text {
-    font-size: 45px;
+    
+font-size: 45px;
     font-weight: 700;
     line-height: 50px;
     margin-bottom: 24px
